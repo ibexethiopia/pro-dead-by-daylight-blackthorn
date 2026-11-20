@@ -192,4 +192,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Dead by Daylight · Updated 2026-11-19 · Shared under the MIT License*
+*Dead by Daylight · Updated 2026-11-20 · Shared under the MIT License*
